@@ -1,0 +1,20 @@
+div#painel{
+    background-color:white;
+    border-radius: 5px;
+    margin:35%;
+    margin-bottom:0%;
+    margin-top:2%;
+    height: 230px;
+    text-align: center;
+    color:black
+}
+img#imagem{
+    width: 150px;
+    height: 150px;
+    border-radius: 100%;
+}
+body{
+    text-align: center;
+    color:white;
+    background-color:gray ;
+}
